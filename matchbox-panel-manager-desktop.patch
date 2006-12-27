@@ -1,0 +1,20 @@
+--- matchbox-panel-manager-0.1/mb-panel-manager.desktop.orig	2004-02-10 20:04:58.000000000 +0100
++++ matchbox-panel-manager-0.1/mb-panel-manager.desktop	2006-12-27 03:39:40.601076060 +0100
+@@ -1,9 +1,14 @@
+ [Desktop Entry]
++Encoding=UTF-8
+ Name=Panel Manager
++Name[pl]=Zarządzanie panelem
+ Comment=Manage panel configuration 
++Comment[pl]=Zarządzanie konfiguracją panelu
+ Exec=matchbox-panel-manager
+ Type=Application
++Terminal=false
+ Icon=mbpanelmgr.png
+-Categories=Application;SystemSettings;MB
++Categories=Settings;SystemSettings;
+ StartupNotify=True
+-SingleInstance=True
+\
++SingleInstance=True
++# vi:encoding=utf-8
