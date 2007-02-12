@@ -1,5 +1,5 @@
 Summary:	Matchbox Panel Manager
-Summary(pl):	Narzêdzie do zarz±dzania panelem ¶rodowiska Matchbox
+Summary(pl.UTF-8):   NarzÄ™dzie do zarzÄ…dzania panelem Å›rodowiska Matchbox
 Name:		matchbox-panel-manager
 Version:	0.1
 Release:	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 An application to manage Matchbox panel configuration.
 
-%description -l pl
-Aplikacja do zarz±dzania konfiguracj± panelu ¶rodowiska Matchbox.
+%description -l pl.UTF-8
+Aplikacja do zarzÄ…dzania konfiguracjÄ… panelu Å›rodowiska Matchbox.
 
 %prep
 %setup -q
