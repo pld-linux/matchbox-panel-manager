@@ -1,5 +1,5 @@
 Summary:	Matchbox Panel Manager
-Summary(pl.UTF-8):   Narzędzie do zarządzania panelem środowiska Matchbox
+Summary(pl.UTF-8):	Narzędzie do zarządzania panelem środowiska Matchbox
 Name:		matchbox-panel-manager
 Version:	0.1
 Release:	1
