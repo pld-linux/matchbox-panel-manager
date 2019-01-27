@@ -5,10 +5,10 @@ Version:	0.1
 Release:	1
 License:	GPL v2+
 Group:		X11/Applications
-Source0:	http://projects.o-hand.com/matchbox/sources/matchbox-panel-manager/%{version}/%{name}-%{version}.tar.bz2
+Source0:	http://downloads.yoctoproject.org/releases/matchbox/matchbox-panel-manager/%{version}/%{name}-%{version}.tar.bz2
 # Source0-md5:	0ea7b03abd7b90eda601b8658a859fb6
 Patch0:		%{name}-desktop.patch
-URL:		http://projects.o-hand.com/matchbox/
+URL:		https://www.yoctoproject.org/software-item/matchbox/
 BuildRequires:	gtk+2-devel >= 1:2.0
 BuildRequires:	pkgconfig
 Requires:	matchbox-panel
